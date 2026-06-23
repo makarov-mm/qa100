@@ -73,6 +73,9 @@ InterviewKnowledgeBase/
   - Middle.md
   - Senior.md
 
+- Rust
+  - Junior.md
+
 ### Topics
 
 - ApplicationArchitecture
