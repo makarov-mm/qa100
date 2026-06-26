@@ -130,3 +130,9 @@ The goal is not to create short trivia lists, but a practical interview knowledg
 - flashcards;
 - future conversion into a website or searchable knowledge base;
 - possible RAG usage with local or cloud LLM tools.
+
+## Support
+
+If you found this project interesting or useful, you can support my work:
+
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/makarov-mm?style=flat&logo=github)](https://github.com/sponsors/makarov-mm)
